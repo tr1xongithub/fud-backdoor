@@ -1,0 +1,10 @@
+E:\VisualStudio\Shelloader\AESinjecter\bin\Debug\AESinjecter.exe.config
+E:\VisualStudio\Shelloader\AESinjecter\bin\Debug\AESinjecter.exe
+E:\VisualStudio\Shelloader\AESinjecter\bin\Debug\AESinjecter.pdb
+E:\VisualStudio\Shelloader\AESinjecter\obj\Debug\AESinjecter.csproj.AssemblyReference.cache
+E:\VisualStudio\Shelloader\AESinjecter\obj\Debug\AESinjecter.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\Shelloader\AESinjecter\obj\Debug\AESinjecter.Properties.Resources.resources
+E:\VisualStudio\Shelloader\AESinjecter\obj\Debug\AESinjecter.csproj.GenerateResource.cache
+E:\VisualStudio\Shelloader\AESinjecter\obj\Debug\AESinjecter.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Shelloader\AESinjecter\obj\Debug\AESinjecter.exe
+E:\VisualStudio\Shelloader\AESinjecter\obj\Debug\AESinjecter.pdb

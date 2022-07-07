@@ -1,0 +1,10 @@
+E:\VisualStudio\Shelloader\Shelloader\obj\Debug\Shelloader.csproj.AssemblyReference.cache
+E:\VisualStudio\Shelloader\Shelloader\obj\Debug\Shelloader.csproj.SuggestedBindingRedirects.cache
+E:\VisualStudio\Shelloader\Shelloader\obj\Debug\Shelloader.Properties.Resources.resources
+E:\VisualStudio\Shelloader\Shelloader\obj\Debug\Shelloader.csproj.GenerateResource.cache
+E:\VisualStudio\Shelloader\Shelloader\obj\Debug\Shelloader.csproj.CoreCompileInputs.cache
+E:\VisualStudio\Shelloader\Shelloader\bin\Debug\Shelloader.exe.config
+E:\VisualStudio\Shelloader\Shelloader\bin\Debug\Shelloader.exe
+E:\VisualStudio\Shelloader\Shelloader\bin\Debug\Shelloader.pdb
+E:\VisualStudio\Shelloader\Shelloader\obj\Debug\Shelloader.exe
+E:\VisualStudio\Shelloader\Shelloader\obj\Debug\Shelloader.pdb
